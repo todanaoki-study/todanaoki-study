@@ -8,8 +8,6 @@
 
 4. Finally, here is my X account. [here][(https://zenn.dev/manase](https://x.com/toda_naopi?t=3ZzRtNS4oatmSD-CbzGzbw&s=09))
 
-## Programming Languages
-
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php," /> <br /><br />
 
 ## Frameworks and Library
