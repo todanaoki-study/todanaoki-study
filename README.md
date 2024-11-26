@@ -8,12 +8,4 @@
 
 4. Finally, here is my X account. [here][(https://zenn.dev/manase](https://x.com/toda_naopi?t=3ZzRtNS4oatmSD-CbzGzbw&s=09))
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php," /> <br /><br />
-
-## Frameworks and Library
-
-<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,express,flask,fastapi,laravel,wordpress" /> <br /><br />
-
-## DB and Dev Tools etc
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,aws,azure,figma,nginx" /> <br /><br />
+<img src="https://i.pinimg.com/originals/29/74/d9/2974d9a32de7190246a8bf13295483a7.jpg">
