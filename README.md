@@ -1,12 +1,12 @@
 # About Me
 
-1. I'm a web frontend and backend developer from Japan
+1. I am a student studying web development, born on July 30, 2004, and my hobby is gaming.
 
-2. My favorites are React, TypeScript, Docker, LangChain,ShellScript
+2. The main languages available are HTML, CSS and JavaScript. I can also use C++ and C#, though only a little.
 
-3. You can find my Tech Blog at [No Change No Life I/O](https://masanyon.com/)
+3. I can also use Photoshop, Illustrator, and figma, although at a student level.
 
-4. You can find my Zenn Blog [here](https://zenn.dev/manase)
+4. 最後に私のXのアカウントはこちらです。 [here][(https://zenn.dev/manase](https://x.com/toda_naopi?t=3ZzRtNS4oatmSD-CbzGzbw&s=09))
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
 
