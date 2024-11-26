@@ -6,9 +6,7 @@
 
 3. I can also use Photoshop, Illustrator, and figma, although at a student level.
 
-4. 最後に私のXのアカウントはこちらです。 [here][(https://zenn.dev/manase](https://x.com/toda_naopi?t=3ZzRtNS4oatmSD-CbzGzbw&s=09))
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
+4. Finally, here is my X account. [here][(https://zenn.dev/manase](https://x.com/toda_naopi?t=3ZzRtNS4oatmSD-CbzGzbw&s=09))
 
 ## Programming Languages
 
