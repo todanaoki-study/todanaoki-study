@@ -8,6 +8,4 @@
 
 4. Finally, here is my X account. [here][(https://zenn.dev/manase](https://x.com/toda_naopi?t=3ZzRtNS4oatmSD-CbzGzbw&s=09))
 
-My favorite character is Father Pucci.
-This character appears in JOJO'S BIZARRE ADVENTURE.
-<img src="https://i.pinimg.com/originals/29/74/d9/2974d9a32de7190246a8bf13295483a7.jpg" whidth="300px" height="auto">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
