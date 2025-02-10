@@ -8,4 +8,6 @@
 
 4. Finally, here is my X account. [here][(https://zenn.dev/manase](https://x.com/toda_naopi?t=3ZzRtNS4oatmSD-CbzGzbw&s=09))
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma)](https://skillicons.dev)
+***Can be use***
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,ps,ai)](https://skillicons.dev)
