@@ -10,4 +10,4 @@
 
 ***Can be use***
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,ps,ai,vscode,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,figma,ps,ai,vscode,wordpress)](https://skillicons.dev)
